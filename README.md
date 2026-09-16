@@ -45,6 +45,11 @@ repository without public explanation. The code and the real-device verification
 are genuine; this fork exists so the work isn't lost, and so it's usable directly for projects that
 need Zig-based Android/iOS cross-compilation today.
 
+## Everything else
+
+This is Zig — see [README-upstream.md](README-upstream.md) for the original project README
+(build instructions, language overview, community links), unchanged from upstream.
+
 ## License
 
 Same as upstream Zig — MIT. See `LICENSE`.
